@@ -94,5 +94,3 @@ Use these commands to monitor or update your service:
 * **Restart after code changes:** `sudo systemctl restart grbl-proxy.service`
 
 ---
-
-*Is there a specific area of the GRBL-to-Klipper mapping that you are planning to work on next?*
